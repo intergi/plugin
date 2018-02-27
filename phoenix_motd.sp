@@ -6,7 +6,7 @@
 //==================================
 
 #include <sourcemod>
-#define PLUGIN_VERSION "1.2.1"
+#define PLUGIN_VERSION "1.2.2"
 enum Game {
   GAME_UNSUPPORTED = -1,
   GAME_CSS,
